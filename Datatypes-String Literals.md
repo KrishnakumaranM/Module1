@@ -18,4 +18,4 @@ print(men_stepped_on_the_moon)
 ![image](https://github.com/user-attachments/assets/7309e4dc-0552-4116-b7d4-2961209d4318)
 
 ## Result
-The expected output is achieved.
+Thus, the python program was executed successfully
