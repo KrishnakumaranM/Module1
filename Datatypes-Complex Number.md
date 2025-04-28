@@ -26,4 +26,4 @@ print(complex_number.real)
 
 
 ## Result
-The expected output is achieved.
+Thus, the python program was executed successfully
